@@ -13,9 +13,13 @@ Curso introductorio al Data Science de Nuclio Digital School en el que se tratan
 
 ## Uso
 1. Clona este repositorio:
-   ```git clone https://github.com/adrianfl55/Intro_DataScience```
+   ```bash
+   git clone https://github.com/adrianfl55/Intro_DataScience
+   ```
 2. Muévete a tu directorio:
-   ```cd mi-repositorio```
+   ``` bash
+   cd tu-directorio
+   ```
 
 
 
