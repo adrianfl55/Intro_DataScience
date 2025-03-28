@@ -15,11 +15,9 @@ Introductory Data Science course from Nuclio Digital School, covering basic Pyth
 1. Clone this repository:
    ```bash
    git clone https://github.com/adrianfl55/Intro_DataScience
+   ```
    
 2. Move into your directory:
    ``` bash
    cd your-directory
    ```
-
-
-
