@@ -1,24 +1,24 @@
-# Introducción al Data Science
+# Introduction to Data Science
 
-## Descripción
-Curso introductorio al Data Science de Nuclio Digital School en el que se tratan conceptos básicos de Python y 2 de sus librerias como Pandas y Scikit-Learn, y por último dasboards en Microsoft Power BI.
+## Description
+Introductory Data Science course from Nuclio Digital School, covering basic Python concepts and two of its libraries, Pandas and Scikit-Learn, as well as dashboards in Microsoft Power BI.
 
-## Requisitos 
-* Python 3.x instalado
-* Bibliotecas necesarias instaladas (se pueden instalar usando pip desde el terminal)
+## Requirements 
+* Python 3.x installed
+* Necessary libraries installed (can be installed using pip from the terminal)
   * Numpy
   * Pandas
   * sklearn
-* Power BI instalado
+* Power BI installed
 
-## Uso
-1. Clona este repositorio:
+## Usage
+1. Clone this repository:
    ```bash
    git clone https://github.com/adrianfl55/Intro_DataScience
-   ```
-2. Muévete a tu directorio:
+   
+2. Move into your directory:
    ``` bash
-   cd tu-directorio
+   cd your-directory
    ```
 
 
